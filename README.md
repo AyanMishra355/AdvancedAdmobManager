@@ -177,4 +177,4 @@ Step 4. Show ads using Advanced Admob Manager
 
 **If you've found this library useful, please give it a :star: on GitHub! It's a great way to show your appreciation and help the project grow.**
 
-**Thank You So Much :heart:**
+**Thank You So Much :heart:** 
