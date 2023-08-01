@@ -41,7 +41,7 @@ dependencies {
     implementation 'com.google.android.gms:play-services-ads:X.X.X'
 
     //for advanced admob manager library
-    implementation 'com.github.AyanMishra355:AdmobAdsManager:X.X.X'
+    implementation 'com.github.AyanMishra355:AdvancedAdmobManager:X.X.X'
 
 	}
 ```
