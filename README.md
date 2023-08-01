@@ -105,7 +105,7 @@ advancedAdmobManager.initializeAds(this)
 Step 2. Set the Ad Unit ID:
 
 ```
-advancedAdmobManager.interstitialAdUnitID("ca-app-pub-3940256099942544/1033173712")
+AdvancedAdUnit.interstitialAdUnitID = "ca-app-pub-3940256099942544/1033173712"
 ```
 **//Apply the same process for other ads as well.**
 
